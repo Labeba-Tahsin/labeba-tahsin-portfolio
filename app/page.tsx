@@ -8,7 +8,10 @@ export default function Page() {
     <div className="w-25">
       <div className="mr-12">
         <div> 
-          <img src="/images/profile-pic.jpeg" alt="profile pic" className="w-full max-w-[1100px]"/>
+        <div className="relative w-full max-w-[1100px] group">
+          <img src="/images/profile-pic.jpeg" alt="profile pic" className="w-full" />
+          <div className="absolute inset-0 bg-black opacity-30 group-hover:opacity-0 transition-opacity duration-800 pointer-events-none"></div>
+        </div>
         </div>
         <div>
       <p className="mb-4 mt-6">
