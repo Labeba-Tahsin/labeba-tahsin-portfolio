@@ -62,7 +62,7 @@ export default function Page() {
       <h4 className="mt-4 mb-4 text-xl font-semibold tracking-tighter">Education</h4>
       <p className="mb-8">
         I completed my B.Sc. in Computer Science from Brac University, Bangladesh, where I contributed to research projects like dynamic object detection for assisting blind individuals, early diabetes prediction, and Cardano price prediction. My work on predicting COVID-19 severity using machine learning algorithms was published in the Springer <b>SIST</b> series
-      (<a className="text-blue-600 underline"
+      (<a className="text-zinc-500 underline"
             rel="noopener noreferrer"
             target="_blank"
             href="https://link.springer.com/chapter/10.1007/978-981-19-0011-2_7">Publication Link</a>).
