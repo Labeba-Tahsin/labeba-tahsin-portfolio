@@ -174,3 +174,10 @@ table {
   z-index: 2;
   /* Add your content styles here */
 }
+
+.underline-custom{
+  display: block;
+  width: 30px;
+  height: 4px;
+  background-color: #000;
+}

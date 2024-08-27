@@ -52,9 +52,10 @@ export default function Page() {
 
     </div>
       <div className="w-75">
-      <h1 className="mb-8 text-4xl font-semibold tracking-tighter">
+      <h1 className="text-4xl font-semibold tracking-tighter mb-2">
         Greetings, I'm Labeba Tahsin.
       </h1>
+      <span className="underline-custom mb-8 "></span>
       <p className="mb-8">
         {`Deep learning and AI enthusiast with a strong foundation in full-stack development. With 3+ years of industry experience, I’m passionate about innovative research and solving complex challenges.`}
       </p>
